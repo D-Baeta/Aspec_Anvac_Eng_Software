@@ -1,1 +1,1 @@
-# Aspec_Anvac_Eng_Software
+# Cenário pensado foi na necessidade de utilizar diversar vezes a mesma aplicação dentro do sistema. A ideia surgiu analisando os códigos da empresa onde trabalho e reparei que se por algum motivo determina aplicação mudar o seu prefixo teriamos que buscar suas requisições em todo projeto. De maneira mais eficiente podemos implementar um Singleton com o pensamento de variável global discutido em aula.
